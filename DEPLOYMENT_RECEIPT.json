@@ -1,0 +1,14 @@
+{
+  "project": "fritz-haber-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "URnT9AaW7ccqsLf3VDp3aMvqTNkeubiArwUyTBWGyaF",
+  "vault_account": "55uMxTDb8P8izZGRLSGwGjhPW5HpugsyQLg5DjgcuNHZ",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "66hu977Wf6zmbQLUFxp6zQbBRT2DeQm9guDeK8HnfESevnqfdcgacY89n2URti6GWzHRPTtuZszRK411KqnYSBHB",
+  "account_tx": "5gieKGRdL4Ag177nrMqEh1VagnBwNFr8BT2CHMKbCdDejmuy3bJebkiakyVV1Bc7zpQb1pDE48Hdo11peaPJe6P8",
+  "mint_tx": "4epASAb8gHxZx9rEVZJRPGqAnpZzPAuNJ7d8QecpXsMpDrPkBURU42evYqprewUMefVFxZANkdbatngvEuFFiTG",
+  "solana_explorer_mint": "https://explorer.solana.com/address/URnT9AaW7ccqsLf3VDp3aMvqTNkeubiArwUyTBWGyaF?cluster=devnet",
+  "timestamp": "2026-10-26 16:32:36 UTC"
+}
